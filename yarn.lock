@@ -2221,7 +2221,7 @@ karma-typescript@^5.2.0:
     util "^0.12.1"
     vm-browserify "^1.1.2"
 
-"karma-webpack@https://github.com/appzuka/karma-webpack#300e12b8a5c1edf6313fea967999fa85bf03a2a0":
+"karma-webpack@https://github.com/appzuka/karma-webpack#next":
   version "5.0.0-alpha.3.0"
   resolved "https://github.com/appzuka/karma-webpack#300e12b8a5c1edf6313fea967999fa85bf03a2a0"
   dependencies:

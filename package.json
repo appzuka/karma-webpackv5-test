@@ -17,7 +17,7 @@
     "karma-chrome-launcher": "^3.1.0",
     "karma-cli": "^2.0.0",
     "karma-jasmine": "^4.0.1",
-    "karma-webpack": "https://github.com/appzuka/karma-webpack#300e12b8a5c1edf6313fea967999fa85bf03a2a0",
+    "karma-webpack": "https://github.com/appzuka/karma-webpack#next",
     "webpack": "^5.1.3",
     "webpack-cli": "^4.1.0"
   },
